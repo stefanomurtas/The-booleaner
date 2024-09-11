@@ -1,17 +1,48 @@
 header {
     background-color: rgb(91, 171, 171);
-    height:auto;
+    height: auto;
     width: auto;
-    
+
 
 }
 
 
-#logo{
+#logo {
 
     width: 12%;
     height: 12%;
     padding: 3%;
-    padding-left:1%;
-    
+    padding-left: 1%;
+
+}
+
+.title {
+    padding: 3%;
+}
+
+h1 {
+    font-size: 55px;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+h3{
+    font-size: 30px;
+    font-family: Verdana, Tahoma, sans-serif;
+    color: rgb(155, 153, 153);
+    padding-top: 0%;
+
+}
+
+a {
+    color: aqua;
+}
+
+a:hover {
+    color: blueviolet
+}
+h4{
+    font-size: 25px;
+    font-family: Verdana, Tahoma, sans-serif;
+    color: rgb(155, 153, 153);
+
 }
