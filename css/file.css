@@ -70,3 +70,12 @@ div{
     height: 700px;
     
 }
+
+p{
+    font-size: 25px;
+    font-family: times, Tahoma, sans-serif;
+
+}
+span{
+    background-color: yellow;
+}
